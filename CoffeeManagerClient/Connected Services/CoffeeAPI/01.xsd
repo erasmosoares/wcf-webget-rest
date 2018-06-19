@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://www.coffee.com/samples/01" elementFormDefault="qualified" targetNamespace="http://www.coffee.com/samples/01" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.coffee.com/samples/01" />
+  <xs:element name="SaveCoffee">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.coffee.com/samples/01" minOccurs="0" name="coffee" nillable="true" type="q1:Coffee" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveCoffeeResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCoffee">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCoffeeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.coffee.com/samples/01" minOccurs="0" name="GetCoffeeResult" nillable="true" type="q2:Coffee" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

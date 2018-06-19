@@ -1,0 +1,9 @@
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\bin\Debug\CoffeeManagerClient.exe.config
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\bin\Debug\CoffeeManagerClient.exe
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\bin\Debug\CoffeeManagerClient.pdb
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\obj\Debug\CoffeeManagerClient.csprojResolveAssemblyReference.cache
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\obj\Debug\CoffeeManagerClient.csproj.CoreCompileInputs.cache
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\obj\Debug\CoffeeManagerClient.exe
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\obj\Debug\CoffeeManagerClient.pdb
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\bin\Debug\ContentType.dll
+C:\Users\esaj\source\repos\CoffeeManager\CoffeeManagerClient\bin\Debug\ContentType.pdb

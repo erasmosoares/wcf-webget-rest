@@ -1,0 +1,5 @@
+C:\Users\esaj\source\repos\CoffeeManager\ContentType\bin\Debug\ContentType.dll
+C:\Users\esaj\source\repos\CoffeeManager\ContentType\bin\Debug\ContentType.pdb
+C:\Users\esaj\source\repos\CoffeeManager\ContentType\obj\Debug\ContentType.csproj.CoreCompileInputs.cache
+C:\Users\esaj\source\repos\CoffeeManager\ContentType\obj\Debug\ContentType.dll
+C:\Users\esaj\source\repos\CoffeeManager\ContentType\obj\Debug\ContentType.pdb

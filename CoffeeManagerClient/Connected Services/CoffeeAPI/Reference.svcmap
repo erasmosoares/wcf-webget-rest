@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6fc1f918-5c2b-4bac-b281-2f7be0a1e61b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="01.wsdl" MetadataType="Wsdl" ID="ae1ad6b0-d834-4d14-b11e-51a16123dfb5" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="d0633112-8785-470e-9fa3-fd164511e4ae" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" />
+    <MetadataFile FileName="01.xsd" MetadataType="Schema" ID="cbd079d6-0aa3-40f9-b1bd-b91db2beef10" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="6bae05d2-995e-4f4c-bb4b-4e95b9f0b32c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" />
+    <MetadataFile FileName="011.xsd" MetadataType="Schema" ID="de746e5d-2466-4b87-b06e-b3d6f35b134f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CoffeemanagerService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
